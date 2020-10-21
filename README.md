@@ -1,16 +1,27 @@
-### Hi there 👋
+# 个人信息
 
-<!--
-**modupantu/modupantu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - 魔都叛徒/男/1993
+ - 工作年限：5年
+ - 个人博客：https://blog.modupantu.top
+ - Github：http://github.com/modupantu
+- 邮箱：modupantu@yeah.net
+ - 期望职位：前端开发工程师
+ - 期望城市：北京
 
-Here are some ideas to get you started:
+# 技能清单
+- 熟悉 W3C 规范，精通 HTML+CSS 布局以及标签特性，熟悉 HTML5 和 CSS3。
+- 熟练使用 LESS/SCSS 等CSS预处理技术，熟悉REM，Flex等移动端常用布局。
+- 熟练Vue全家桶及其相关插件，包括环境搭建，模块划分以及功能开发。
+- 熟悉webpack，熟悉 nodeJs及其自动化脚本开发，熟练使用 npm 包管理工具。
+- 熟悉Element-Ui、iview、vantUi熟悉微信公众号和微信和支付宝小程序开发流程。
+- 熟练使用 git 版本控制工具，能够进行高效的多人协作开发。
+- 熟悉MySQL，mongodb数据库的常用命令，熟悉nodeJs开发搭配egg.js,koa.js,Express框架。
+- 熟悉 Linux 常用操作，熟悉 nginx 常用配置。
+- 熟悉使用docker，构建生产环境。
+## 项目经验
+。。。。。。。。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---      
+# 致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事。
