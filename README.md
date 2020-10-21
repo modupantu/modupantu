@@ -4,7 +4,7 @@
  - 工作年限：5年
  - 个人博客：https://blog.modupantu.top
  - Github：http://github.com/modupantu
-- 邮箱：modupantu@yeah.net
+- 邮箱：modupantu@126.com
  - 期望职位：前端开发工程师
  - 期望城市：北京
 
