@@ -18,8 +18,8 @@
 - 熟悉MySQL，mongodb数据库的常用命令，熟悉nodeJs开发搭配egg.js,koa.js,Express框架。
 - 熟悉 Linux 常用操作，熟悉 nginx 常用配置。
 ## 项目经验
-。。。。。。。。
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=modupantu)](https://github.com/anuraghazra/github-readme-stats)
 
 ---      
 # 致谢
