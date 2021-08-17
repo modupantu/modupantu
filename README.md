@@ -20,7 +20,8 @@
 ## 项目经验
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=modupantu&count_private=true&show_icons=true&theme=radical)](https://github.com/modupantu)
-
+[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=modupantu&layout=compact)](https://github.com/modupantu）
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=modupantu)](https://github.com/modupantu)
 ---      
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
