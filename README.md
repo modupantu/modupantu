@@ -19,7 +19,7 @@
 - 熟悉 Linux 常用操作，熟悉 nginx 常用配置。
 ## 项目经验
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=modupantu)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=modupantu&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---      
 # 致谢
